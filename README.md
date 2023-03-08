@@ -44,7 +44,7 @@ By using this modpack, you agree to the following:
     *  [The "social interactions" screen](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
     * On servers where Mojang's chat reporting is optional, the modpack opts out of it for the playing user. Chat status icons are changed to provide more accurate information about the signing state of the server. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
-* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
+* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Pwing Optimized or Fabuloulsy Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
 
 
   [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
