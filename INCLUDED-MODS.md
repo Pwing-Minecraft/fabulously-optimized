@@ -6,7 +6,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 
 ## Smooth
 | Name | Author | 1.19.2 | Description |
-
+|---|---|---|---|
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✔️ | Renders Minecraft slower if it is in the background to reduce CPU usage |
 
 | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) | &nbsp;&nbsp;✔️ | Makes chests, signs, beds, etc. render faster |
