@@ -1,5 +1,5 @@
 # Included mods
-[Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)	[juliand665](https://www.curseforge.com/members/juliand665)
+
 
 Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods may have been obsoleted or superseded by better alternatives in the newer versions. You can also find the version-specific mod list by clicking on the version on CurseForge or Modrinth.
 
