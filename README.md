@@ -36,7 +36,7 @@ Not sure which edition is right for you? Check this handy table!
 
 By using this modpack, you agree to the following:
 
-* The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own.   
+* The modpack has been set up to be compatible with the rules of Pwing, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own.   
     * The command *`/ghost`* (provided by [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)) may be disallowed by the rules on some servers [as it sends a slight amount of packets](https://www.curseforge.com/minecraft/mc-mods/antighost?comment=103), but it is safe if you don't spam it, use only when you are stuck in blocks.
 * This modpack is using [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) for chunk optimization and [due to the way it works](https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md#chunk-save-format), disabling (or replacing) the mod will make your existing worlds initially load a bit slower. This is harmless, it simply means the game is calculating the lit up areas again with a different algorithm.
 * This modpack disables the [third-party server disclaimer](https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png), so if you are using the multiplayer function, you also agree to the following: 
@@ -46,29 +46,7 @@ By using this modpack, you agree to the following:
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
 * Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
 
-<br>
-<details>
-  
-  <summary>Free badges for forks <a href="https://intergrav.github.io/devins-badges-docs">by Devin</a></summary>
-  
-  <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
-  
-  Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
-  ```html
-  <!-- Markdown -->
+
   [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
 
-  <!-- HTML (resizeable) -->
-  <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg">
-  ```
-  <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg"></a>
-  
-  Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
-  ```html
-  <!-- Markdown -->
-  ![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_46h.png)
-  <!-- HTML (resizeable) -->
-  <img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg">
-  ```
-  
-</details>
+ 
