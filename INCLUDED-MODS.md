@@ -7,23 +7,20 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 ## Smooth
 | Name | Author | 1.19.2 | Description |
 
-|---|---|---|---|---|---|---|
+|---|---|---|---|
 
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✔️ | Renders Minecraft slower if it is in the background to reduce CPU usage |
-| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes chests, signs, beds, etc. render faster |
-| [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Stops rendering entities that are behind walls |
-| [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | &nbsp;&nbsp;✔️ |  |  |  | Makes chests render faster |
-| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Reduces RAM usage |
-| [Hydrogen](https://modrinth.com/mod/hydrogen) ¹ | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Reduces RAM usage |
-| [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | [Jerozgen](https://www.curseforge.com/members/Jerozgen) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes language switching instant, adds a searchbar |
-| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the game startup faster |
-| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes game physics and chunk loading |
-| [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) | [FX_PR0CESS](https://www.curseforge.com/members/fx_pr0cess) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes several memory leaks |
-| [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes game startup and resource packs switch faster by removing fade animations |
-| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Optimizes light rendering |
-| [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Improves the overall responsiveness of the game (less likely to freeze) |
-| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes general rendering to improve FPS, adds some graphics options |
-| [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | [Spottedstar](https://www.curseforge.com/members/Spottedstar) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes light rendering |
+| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) | &nbsp;&nbsp;✔️ | Makes chests, signs, beds, etc. render faster |
+| [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | &nbsp;&nbsp;✔️ | Stops rendering entities that are behind walls |
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811) | &nbsp;&nbsp;✔️ | Reduces RAM usage |
+| [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | [Jerozgen](https://www.curseforge.com/members/Jerozgen) | &nbsp;&nbsp;✔️ | Makes language switching instant, adds a searchbar |
+| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | &nbsp;&nbsp;✔️ | Makes the game startup faster |
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | Optimizes game physics and chunk loading |
+| [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) | [FX_PR0CESS](https://www.curseforge.com/members/fx_pr0cess) | &nbsp;&nbsp;✔️ | Fixes several memory leaks |
+| [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | Makes game startup and resource packs switch faster by removing fade animations |
+| [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | Improves the overall responsiveness of the game (less likely to freeze) |
+| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | Optimizes general rendering to improve FPS, adds some graphics options |
+| [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | [Spottedstar](https://www.curseforge.com/members/Spottedstar) | &nbsp;&nbsp;✔️ | Optimizes light rendering |
 
 ¹ [Not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
