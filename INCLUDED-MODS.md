@@ -5,10 +5,10 @@ Here you can find the mod comparison table between the currently supported Minec
 The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
 ## Smooth
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.2 | Description |
+| Name | Author | 1.19.2 | Description |
 |---|---|---|---|---|---|---|
-| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | &nbsp;&nbsp;✔️ |  |  |  | Makes beds render faster |
-| [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Renders Minecraft slower if it is in the background to reduce CPU usage |
+
+| [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✔️ | Renders Minecraft slower if it is in the background to reduce CPU usage |
 | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes chests, signs, beds, etc. render faster |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Stops rendering entities that are behind walls |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | &nbsp;&nbsp;✔️ |  |  |  | Makes chests render faster |
